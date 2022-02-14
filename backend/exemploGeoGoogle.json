@@ -1,0 +1,94 @@
+results: {
+  0: {
+  address_components: {
+      0: {
+  long_name: "02035-021",
+  short_name: "02035-021",
+  types: {
+          0: "postal_code"
+        }
+      },
+      1: {
+  long_name: "608-1270",
+  short_name: "608-1270",
+  types: {
+          0: "street_number"
+        }
+      },
+      2: {
+  long_name: "Rua Doutor Zuquim",
+  short_name: "R. Dr. Zuquim",
+  types: {
+          0: "route"
+        }
+      },
+      3: {
+  long_name: "Santana",
+  short_name: "Santana",
+  types: {
+          0: "political",
+          1: "sublocality",
+          2: "sublocality_level_1"
+        }
+      },
+      4: {
+  long_name: "São Paulo",
+  short_name: "São Paulo",
+  types: {
+          0: "administrative_area_level_2",
+          1: "political"
+        }
+      },
+      5: {
+  long_name: "São Paulo",
+  short_name: "SP",
+  types: {
+          0: "administrative_area_level_1",
+          1: "political"
+        }
+      },
+      6: {
+  long_name: "Brazil",
+  short_name: "BR",
+  types: {
+          0: "country",
+          1: "political"
+        }
+      }
+    },
+  formatted_address: "R. Dr. Zuquim, 608-1270 - Santana, São Paulo - SP, 02035-021, Brazil",
+  geometry: {
+  bounds: {
+  northeast: {
+  lat: "-23.4943605",
+  lng: "-46.6215705"
+        },
+  southwest: {
+  lat: "-23.5002145",
+  lng: "-46.6228095"
+        }
+      },
+  location: {
+  lat: "-23.4969115",
+  lng: "-46.6218204"
+      },
+  location_type: "APPROXIMATE",
+  viewport: {
+  northeast: {
+  lat: "-23.4943605",
+  lng: "-46.620841019709"
+        },
+  southwest: {
+  lat: "-23.5002145",
+  lng: "-46.623538980291"
+        }
+      }
+    },
+  place_id: "ChIJu-VxWC_2zpQRp96Wsl0CVeI",
+  types: {
+      0: "postal_code"
+    }
+  }
+},
+  status: "OK"
+}

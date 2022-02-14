@@ -1,0 +1,56 @@
+.containerBudget{
+    width: 60vw;
+    height: 100vh;
+    background: #EFEFEF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box {
+    width: 400px;
+    height: 500px;  
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;    
+    background: #EFEFEF;    
+}
+.box input{
+    margin-top: 30px;
+    -webkit-box-shadow: 1px 1px 10px 1px #696969; 
+    box-shadow: 1px 1px 10px 1px #696969;
+    height: 40px;
+    width: 80%;
+    border:none;
+}
+
+.box input::placeholder{
+    padding-left: 10px;
+    font-size: 1.2em;
+}
+.box button{
+    margin-top: 30px;
+    width: 81%;
+    height: 45px;
+    background-color: #1132ee;
+    color: azure;
+    border: none;
+    font-size: 1.5em;
+}
+
+.box .title{    
+    display: flex;
+    flex-direction:column;
+    justify-content: left;
+    align-items: left;
+    width: 80%;
+    color:#696969;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+body {
+    margin: 0px;
+    background: #EFEFEF;
+}
